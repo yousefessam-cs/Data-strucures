@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1596213815 source:d:\data structure\week 1\network_simulation\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<string>
+	<algorithm>
+	<queue>
+

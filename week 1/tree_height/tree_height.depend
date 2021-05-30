@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596213534 source:d:\data structure\week 1\tree_height\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+

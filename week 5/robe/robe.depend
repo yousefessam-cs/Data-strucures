@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596567898 source:d:\data structure\week 5\robe\main.cpp
+	<cstdio>
+	<iostream>
+	<sstream>
+	<string>
+
